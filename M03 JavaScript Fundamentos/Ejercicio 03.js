@@ -23,22 +23,14 @@ function menosQueNoventa(num) {
 }
 
 function mayorQueCincuenta(num) {
-   if (num > 50) {
-      return true;
-   } else {
-      return false;
-   }
+   return (num > 50)
    // Retorna true si el argumento "num" es mayor que cincuenta.
    // De lo contrario, retorna false.
    // Tu código:
 }
 
 function esPar(num) {
-   if (num % 2 === 0) {
-      return true;
-   } else {
-      return false
-   }
+   return (num % 2 === 0)
    // Retorna true si "num" es par.
    // De lo contrario, retorna false.
    // Tu código:

@@ -31,8 +31,6 @@ function combinarNombres(nombre, apellido) {
    // Tu código:
 }
 
-combinarNombres ("perro", "perra")
-
 function obtenerSaludo(nombre) {
    return "Hola " + nombre + "!";
    // Toma el string "nombre" y concatena otra string en la cadena para que tome la siguiente forma:

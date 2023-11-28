@@ -6,8 +6,6 @@ function devolverString(string) {
    // Tu código:
 }
 
-devolverString ("perro")
-
 // ⛔️ "X" e "Y" son números.
 
 function suma(x, y) {
